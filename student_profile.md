@@ -1,22 +1,22 @@
 # Student Profile
 
 ## Basic Information
-- **Name:** [Your full name]
-- **Username:** [Your GitHub username]
-- **Email:** [Your school email]
+- **Name:** [Vadym Shcherbyk]
+- **Username:** [Vadyn794]
+- **Email:** [353793144@educ.dpcdsb.org]
 
 ## About Me
-- **What do you want to study in the future:** [type here]
-- **Year:** [9/10/11/12]
-- **Interests:** [What are you interested in learning?]
+- **What do you want to study in the future:** [3d modeling design or electical engineer]
+- **Year:** [12]
+- **Interests:** [I want to lear Python for my slef jsut to know]
 
 ## Experience
-- **Programming Languages I've Used:** [List any, or write "None yet!"]
-- **Why I'm Taking This Course:** [Your reason]
+- **Programming Languages I've Used:** [HTML, Python and C++]
+- **Why I'm Taking This Course:** [I want to learn python for my self because maybe in the future I will need it]
 
 ## Goals
-- **What I Want to Learn:** [What do you hope to get from this class?]
-- **Career Interests:** [What field are you interested in?]
+- **What I Want to Learn:** [I want to recive more knowledge about coding]
+- **Career Interests:** [programming apps, games]
 
 ## Fun Fact
-[Share something interesting about yourself!]
+[In the past, I played a lot of games and I had an idea to create something in the future.]
